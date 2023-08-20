@@ -1,0 +1,17 @@
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\bin\Debug\net7.0\WebApiService.deps.json
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\bin\Debug\net7.0\WebApiService.runtimeconfig.json
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\bin\Debug\net7.0\WebApiService.dll
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\bin\Debug\net7.0\WebApiService.pdb
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\bin\Debug\net7.0\Repository.dll
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\bin\Debug\net7.0\Repository.pdb
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\obj\Debug\net7.0\WebApiService.csproj.AssemblyReference.cache
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\obj\Debug\net7.0\WebApiService.GeneratedMSBuildEditorConfig.editorconfig
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\obj\Debug\net7.0\WebApiService.AssemblyInfoInputs.cache
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\obj\Debug\net7.0\WebApiService.AssemblyInfo.cs
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\obj\Debug\net7.0\WebApiService.csproj.CoreCompileInputs.cache
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\obj\Debug\net7.0\WebApiService.csproj.CopyComplete
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\obj\Debug\net7.0\WebApiService.dll
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\obj\Debug\net7.0\refint\WebApiService.dll
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\obj\Debug\net7.0\WebApiService.pdb
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\obj\Debug\net7.0\WebApiService.genruntimeconfig.cache
+D:\fu-cn6\ojtLong\week1\slot01\baitap01ver22\WebApiService\obj\Debug\net7.0\ref\WebApiService.dll
